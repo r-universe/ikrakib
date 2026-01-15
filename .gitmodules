@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "bayesDiagnostics"]
+	path = bayesDiagnostics
+	url = https://github.com/ikrakib/bayesdiagnostics
 [submodule "modernBoot"]
 	path = modernBoot
 	url = https://github.com/ikrakib/modernboot
